@@ -2,3 +2,11 @@ Debug
 .settings
 .cproject
 .project
+*.opendb
+*.sln
+*.db
+*.vcxproj
+*.filters
+*.user
+.vc
+.vc/*
